@@ -49,7 +49,7 @@ const App: () => React$Node = () => {
               hwDecoderEnabled: 1,
               hwDecoderForced: 1,
               uri:
-                'rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_115k.mov',
+                'https://sf1-hscdn-tos.pstatp.com/obj/media-fe/xgplayer_doc_video/flv/xgplayer-demo-360p.flv',
               initOptions: [
                 '--no-audio',
                 '--rtsp-tcp',
